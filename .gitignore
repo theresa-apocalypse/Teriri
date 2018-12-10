@@ -17,9 +17,9 @@ node_modules/
 tests/coverage_html/
 tests/.coverage
 build/
-
-:v
-
-y
-
 tests/report/
+
+# Not needed this time
+
+.project
+.pydevproject
